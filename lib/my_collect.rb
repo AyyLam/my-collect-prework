@@ -6,4 +6,5 @@ def my_collect(argument)
     result.push(element)
     i += 1 
   end
+  return result 
 end 
